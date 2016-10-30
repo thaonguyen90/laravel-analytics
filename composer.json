@@ -1,29 +1,20 @@
 {
   "name": "thaonv/laravel-analytics",
-  "description": "A Laravel 5 package to retrieve Google Analytics data.",
+  "description": "Google Analytics data.",
   "minimum-stability": "dev",
-  "keywords": [
-    "spatie",
-    "google",
-    "analytics",
-    "retrieve",
-    "reports",
-    "laravel"
-  ],
+  "keywords": [],
   "homepage": "https://github.com/thaonguyen90/laravel-analytics",
   "license": "MIT",
   "authors": [
     {
       "name": "Thạo Nguyễn Văn",
-      "email": "freek@spatie.be",
-      "homepage": "https://murze.be",
-      "role": "Developer"
+      "email": "thaonguyenvan90@gmail.com"
     }
   ],
   "require": {
-    "php" : ">=5.4.0",
+    "php": ">=5.4.0",
     "illuminate/contracts": "~5.1.0|~5.2.0",
-    "illuminate/support": "~5.1.0|~5.2.0",
+    "illuminate/support": "^5.0,<5.4",
     "google/apiclient" : "^1.1",
     "nesbot/carbon": "^1.21"
   },
