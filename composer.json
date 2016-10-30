@@ -1,5 +1,5 @@
 {
-  "name": "Thaonv/laravel-analytics",
+  "name": "thaonv/laravel-analytics",
   "description": "A Laravel 5 package to retrieve Google Analytics data.",
   "keywords": [
     "spatie",
