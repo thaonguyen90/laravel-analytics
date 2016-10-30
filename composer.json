@@ -1,6 +1,7 @@
 {
   "name": "thaonv/laravel-analytics",
   "description": "A Laravel 5 package to retrieve Google Analytics data.",
+  "minimum-stability": "dev",
   "keywords": [
     "spatie",
     "google",
@@ -13,7 +14,7 @@
   "license": "MIT",
   "authors": [
     {
-      "name": "Freek Van der Herten",
+      "name": "Thạo Nguyễn Văn",
       "email": "freek@spatie.be",
       "homepage": "https://murze.be",
       "role": "Developer"
