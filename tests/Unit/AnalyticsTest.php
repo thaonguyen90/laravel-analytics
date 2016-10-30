@@ -1,14 +1,14 @@
 <?php
 
-namespace Spatie\Analytics\Tests;
+namespace Thaonv\Analytics\Tests;
 
 use Carbon\Carbon;
 use Illuminate\Support\Collection;
 use Mockery;
 use PHPUnit_Framework_TestCase;
-use Spatie\Analytics\Analytics;
-use Spatie\Analytics\AnalyticsClient;
-use Spatie\Analytics\Period;
+use Thaonv\Analytics\Analytics;
+use Thaonv\Analytics\AnalyticsClient;
+use Thaonv\Analytics\Period;
 
 class AnalyticsTest extends PHPUnit_Framework_TestCase
 {

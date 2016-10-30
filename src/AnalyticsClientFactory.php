@@ -1,6 +1,6 @@
 <?php
 
-namespace Spatie\Analytics;
+namespace Thaonv\Analytics;
 
 use Google_Client;
 use Google_Service_Analytics;

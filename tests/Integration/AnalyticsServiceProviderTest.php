@@ -1,10 +1,10 @@
 <?php
 
-namespace Spatie\Analytics\Tests\Integration;
+namespace Thaonv\Analytics\Tests\Integration;
 
 use Analytics;
 use Carbon\Carbon;
-use Spatie\Analytics\Exceptions\InvalidConfiguration;
+use Thaonv\Analytics\Exceptions\InvalidConfiguration;
 
 class AnalyticsServiceProviderTest extends TestCase
 {

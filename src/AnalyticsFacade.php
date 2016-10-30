@@ -1,6 +1,6 @@
 <?php
 
-namespace Spatie\Analytics;
+namespace Thaonv\Analytics;
 
 use Illuminate\Support\Facades\Facade;
 

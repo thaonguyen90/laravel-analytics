@@ -1,6 +1,6 @@
 <?php
 
-namespace Spatie\Analytics;
+namespace Thaonv\Analytics;
 
 use Carbon\Carbon;
 use DateTime;

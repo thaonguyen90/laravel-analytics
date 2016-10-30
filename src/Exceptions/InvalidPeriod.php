@@ -1,6 +1,6 @@
 <?php
 
-namespace Spatie\Analytics\Exceptions;
+namespace Thaonv\Analytics\Exceptions;
 
 use DateTime;
 use Exception;
